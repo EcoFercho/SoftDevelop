@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-container{
+  width: 100%;
+  background-color: #0099e0;
+}
+
+.App-header{
+  color: white;
+  font-size: medium;
+  background-color: #0099e0;
+}
+
+.App-footer{
+  text-align: center; 
+  background-color: #0099e0; 
+}
+
+.App-content{
+  height: 80vh;
+}
